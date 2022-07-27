@@ -1,0 +1,171 @@
+body{
+    background-color: #F4EEFF;
+}
+
+hr{
+    
+    border-style: none;
+    height: 2px;
+    border-top: dotted #424874;
+    border-width: 8px;
+    width: 5%;
+}
+
+h1{
+font-family: "Ibarra Real Nova";
+color: #424874;
+text-align: center;
+word-spacing: 8px;
+letter-spacing: 10px;
+
+
+}
+
+h2{
+    color: #424874;
+    font-family: "Ibarra Real Nova";  
+    text-align: center;
+    letter-spacing: 6px;
+    
+}
+
+p{
+    font-family: "Montserrat";
+    font-weight: bold;
+    text-align: center;
+    
+    
+}
+
+ul{
+    font-family: "Montserrat";
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+td{
+    font-family: "Montserrat";
+    font-weight: bold;
+    text-align: center;  
+}
+
+th{
+    color:black;
+    font-family: "Ibarra Real Nova";
+    font-size: 18px;
+    text-align: center;
+    
+}
+
+label{
+    font-family: "Ibarra Real Nova";
+color: #424874;
+font-size:20px ;
+font-weight: bold;
+
+
+
+}
+
+table{
+margin-right: auto;
+margin-left: auto;
+}
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+.SubButton{
+    background-color: rgb(86, 85, 148);
+    padding-left:32px ;
+    padding-top: 14px ;
+    padding-bottom: 14px ;
+    padding-right:32px ;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    align-self: center;
+    border-bottom-style:solid ;
+    color: white;
+}
+
+textarea{
+    background-color: #DCD6F7;
+    padding-left:32px ;
+    padding-top: 16px ;
+    padding-bottom: 16px ;
+    padding-right:56px ;
+    font-size: 16px;
+    font-family: sans-serif;
+    align-self: center;
+    border: none;
+    width: 40%;
+    
+}
+
+input{
+    padding-left:32px ;
+    padding-top: 16px ;
+    padding-bottom: 16px ;
+    padding-right:56px ;
+    font-size: 16px;
+    background-color: #DCD6F7;
+    font-family: sans-serif;
+    align-self: center;
+   border: none;
+   width: 40%;
+}
+
+footer{
+    padding-bottom: 60px;
+    padding-top: 60px;
+   row-gap: 20px;
+   width: 100%;
+    background-color: #424874;
+}
+
+.confot{
+    color: white;
+    font-family: "Nunito Sans";
+    
+    letter-spacing: 5px;
+    
+}
+
+.socfot{
+    color: white;
+    padding-left: 300px;
+    font-family: "Nunito Sans";
+    letter-spacing: 5px;
+}
+
+.Clink{
+    color: white;
+    float: right;
+    text-align-last: right;
+    font-family: "Nunito Sans";
+    letter-spacing: 5px;
+}
+
+.Linkdin{
+    color: white;
+    float: right;
+    padding-right: 15px;
+    font-family: "Nunito Sans";
+    letter-spacing: 5px;
+}
+.Insta{
+    color: white;
+    float: right;
+    
+    font-family: "Nunito Sans";
+    letter-spacing: 5px;
+}
+a{
+    color: black;
+}
